@@ -76,12 +76,12 @@ Per the final project documentation (LAB02/LAB04 and the Use Case Report), the s
 
 | # | Member | ID | Module | Key controllers |
 |---|---|---|---|---|
-| 01 | — | — | Student, Teacher & Guardian Registration; enrolment | `StudentServlet`, `TeacherServlet`, `GuardianServlet` |
+| 01 | Hansaka K.L.G.S. | IT25103993 | Student, Teacher & Guardian Registration; enrolment | `StudentServlet`, `TeacherServlet`, `GuardianServlet` |
 | 02 | Amarathunge W.R.P.N. | IT25103994 | Class, Timetable & Communication (notices, teaching materials) | `ClassServlet`, `TimetableServlet`, `NoticeServlet` |
-| 03 | — | — | Attendance marking, correction window, chronic absence | `AttendanceServlet` |
-| 04 | — | — | Fee invoicing, payments, receipts, refunds | `FeeServlet` |
-| 05 | — | — | Users, roles, authentication, profile, audit | `AuthServlet`, `UserServlet` |
-| 06 | — | — | Examinations, marks, grades, report cards, analytics | `ExamServlet`, `ReportCardServlet` |
+| 03 | Samarakoon S.M.D.S. | IT25103995 | Attendance marking, correction window, chronic absence | `AttendanceServlet` |
+| 04 | Gunasekara K.J.W | IT25103996 | Fee invoicing, payments, receipts, refunds | `FeeServlet` |
+| 05 | Senavirathna K.V.L.C.M | IT25103997 | Users, roles, authentication, profile, audit | `AuthServlet`, `UserServlet` |
+| 06 | Dissanayake D.M.A.S.K. | IT25103998 | Examinations, marks, grades, report cards, analytics | `ExamServlet`, `ReportCardServlet` |
 
 ---
 
